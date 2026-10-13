@@ -28,6 +28,7 @@ In the making of the [Strew Home Ed App](https://strew.app), I've come across lo
 - [NRICH Maths](https://nrich.maths.org/)
 - [Topmarks](https://www.topmarks.co.uk/)
 - [Math is Fun](https://www.mathsisfun.com/)
+- [Typing Speed Test for Kids](https://typing.rerivo.com/typing-test-for-kids.html) - Free kid-friendly typing practice with no sign up, no account and no ads inside the typing area.
 - [BBC Bitesize](https://www.bbc.co.uk/bitesize)
 
 ## 4) Open / Free Curriculum & Lesson Repositories (Tilted more towards 'homeschool')
